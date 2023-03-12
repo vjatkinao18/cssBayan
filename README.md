@@ -1,1 +1,1 @@
-https://${vjatkinao18}.github.io/cssBayan/cssBayan/index.html
+https://vjatkinao18.github.io/cssBayan/cssBayan/index.html
